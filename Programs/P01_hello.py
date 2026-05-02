@@ -8,3 +8,5 @@ def justPrint(text):
 if __name__ == '__main__':
     justPrint('Hello World !')
     justPrint("Test Message")
+    justPrint("Hi")
+    
